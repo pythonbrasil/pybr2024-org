@@ -1,0 +1,1 @@
+Estamos solicitando cotações para um evento de tecnologia em outubro de 2024, que contará com a presença de 2 mil pessoas durante 3 dias. Gostaríamos de incluir dois coffe breaks, um pela manhã e outro à tarde, com opções veganas correspondendo a 10% do cardápio total. Por favor, envie-nos suas propostas e orçamentos para consideração.
