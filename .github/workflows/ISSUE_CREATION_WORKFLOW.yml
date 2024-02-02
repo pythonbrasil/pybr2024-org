@@ -13,8 +13,8 @@ on:
         required: false
         default: "Issue criada"
 
-  schedule:
-    - cron: 0 12 * * 4
+ # schedule:
+ #   - cron: 30 22 */14 * *
 
 env:
   MONTH_01: "Janeiro"
@@ -31,7 +31,8 @@ env:
   MONTH_12: "Dezembro"
   # Change this variable for changing the meeting weekday
   DATE_WEEKDAY: "wednesday"
-
+  # Change this variable for changing the meeting interval
+  INTERVAL: "14 days"
 jobs:
   create_issue:
     name: Create team sync issue
@@ -50,11 +51,11 @@ jobs:
       - name: Get meeting date
         id: date
         run: |
-          day=$(date -d "next $DATE_WEEKDAY" +%d)
-          month_num=$(date -d "next $DATE_WEEKDAY" +%m)
+          day=$(date -d "$INTERVAL" +%d)
+          month_num=$(date -d "$INTERVAL" +%m)
           month_var="MONTH_$month_num"
           month=$(eval echo ${!month_var})
-          year=$(date -d "next $DATE_WEEKDAY" +%Y)
+          year=$(date -d "$INTERVAL" +%Y)
           meeting_date="$day de $month de $year"
           echo "::set-output name=date::$meeting_date"
          
@@ -64,7 +65,7 @@ jobs:
           assignees: ${{ steps.extract.outputs.assignees }}
           labels: ${{ steps.extract.outputs.labels }}
           title: "[Reunião] Geral: ${{ steps.date.outputs.date }}"
-          body: "${{ steps.body.outputs.body }}"
+          body: ${{ steps.extract.outputs.body }}
           project: ${{ steps.extract.outputs.project }}
           pinned: false
           close-previous: false
