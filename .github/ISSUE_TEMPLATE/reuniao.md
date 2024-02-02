@@ -11,9 +11,9 @@ assignees: ''
 
 ---
 
-_[Remover antes de abrir o ticket] Este template deve ser editado com os itens a serem discutidos durante a reunião. Toda colaboração é bem vinda. Durante a reunião devem ser registradas as participantes e as decisões tomadas, caso hajam informações sensíveis, deve ser criado um arquivo no [Google Drive da organização da Python Brasil 2023](https://drive.google.com/drive/u/1/folders/11wEYmnZYqLrcn3zjflO03xedyZtu61G1) e o link inserido nessa issue. Após o encerramento, o grupo responsável pela reunião deve revisar as informações e fechar a issue em não mais do que uma semana._
+_[Remover antes de abrir o ticket] Este template deve ser editado com os itens a serem discutidos durante a reunião. Toda colaboração é bem vinda. Durante a reunião devem ser registradas as participantes e as decisões tomadas, caso hajam informações sensíveis, deve ser criado um arquivo no [Google Drive da organização da Python Brasil 2024](https://drive.google.com/drive/u/0/folders/1kFmZwf5b34qBiNEBsPznmoJ1CpSrEIwN) e o link inserido nessa issue. Após o encerramento, o grupo responsável pela reunião deve revisar as informações e fechar a issue em não mais do que uma semana._
 
-# Reunião PyBR 2023
+# Reunião PyBR 2024
 
 - Participantes:
   - Nome e Sobrenome (@Github ou E-mail)
