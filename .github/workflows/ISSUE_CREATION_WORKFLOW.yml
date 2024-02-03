@@ -31,7 +31,7 @@ env:
   DATE_WEEKDAY: "wednesday"
   # Change this variable for changing the meeting interval
   INTERVAL: "14 days"
-  FIRST_RUN_DATE: "2023-02-13"
+  FIRST_RUN_DATE: "2024-02-13"
 jobs:
   weekindex:
     runs-on: ubuntu-latest
