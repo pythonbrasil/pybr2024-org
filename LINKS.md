@@ -1,0 +1,8 @@
+- C4P: talks.python.org.br
+- Site: 2024.pythonbrasil.org.br
+- https://manual.pythonbrasil.org.br/
+- https://apyb.python.org.br/associados/guias/como-organizar-eventos
+- Lista de tarefas: https://github.com/pythonbrasil/pybr2024-org
+- Folder do drive: https://drive.google.com/drive/u/0/folders/1kFmZwf5b34qBiNEBsPznmoJ1CpSrEIwN
+- **https://apyb.python.org.br/pythonbrasil/cdc/
+- **https://rgth.co/pt-br/blog/modelo-de-avaliacao-das-atividades-da-python-brasil/
