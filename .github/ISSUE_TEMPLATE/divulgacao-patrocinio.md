@@ -1,5 +1,6 @@
+---
 name: [Divulgação Patrocínio] <Empresa> 
-description: Issue para lidar com as tasks para fechar o patrocínio com uma empresa.
+about: Issue para lidar com as tasks para fechar o patrocínio com uma empresa.
 labels: "time-social-media"
 ---
 ### Descrição
