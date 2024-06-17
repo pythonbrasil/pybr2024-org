@@ -1,7 +1,7 @@
 ---
 name: [Patrocínio] <Empresa> 
 description: Issue para lidar com as tasks para fechar o patrocínio com uma empresa.
-labels: "time-financeiro"
+labels: time-financeiro
 ---
 ### Descrição
 
