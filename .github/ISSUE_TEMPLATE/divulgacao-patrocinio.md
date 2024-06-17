@@ -1,5 +1,5 @@
 ---
-name: [Divulgação Patrocínio] <Empresa> 
+name: "[Divulgação Patrocínio] <Empresa> "
 about: Issue para lidar com as tasks para fechar o patrocínio com uma empresa.
 labels: "time-social-media"
 ---
