@@ -13,8 +13,8 @@ lincoln: https://lincolnloop.com/brand/
 jus: guide https://drive.google.com/file/d/1i-lq2qUUBUMsOkVL01gvRmzSOcfm2z--/view?usp=sharing & logos:https://drive.google.com/drive/folders/1-gJkNXTQ-YrRq5PBu796t-YcNqEVoUTm?usp=sharing
 
 
-APOIO
-novatec:
-senac:
-fiap: 
+## APOIO
+- novatec
+- senac: (manual da marca)[https://dn.senac.br/imprensa/manual-da-marca/]
+- fiap: 
 alura:
