@@ -17,4 +17,4 @@ jus: guide https://drive.google.com/file/d/1i-lq2qUUBUMsOkVL01gvRmzSOcfm2z--/vie
 - novatec
 - senac: [manual da marca](https://dn.senac.br/imprensa/manual-da-marca/)
 - fiap: 
-alura:
+- alura:
