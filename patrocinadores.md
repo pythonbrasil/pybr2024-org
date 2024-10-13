@@ -18,4 +18,4 @@
 - senac: [manual da marca](https://dn.senac.br/imprensa/manual-da-marca/)
 - fiap: 
 - alura:
-- vinta 
+- vinta: [logo / brandfetch](https://brandfetch.com/vintasoftware.com?view=library&library=default&collection=logos)
