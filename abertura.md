@@ -1,6 +1,6 @@
 Lista de coisas pra falar:
 
-* Dar boas vinda
+* Dar boas vindas
 * Contar que essa é a 20a pybr
 * Explicar a regra do pacman:
     - quando tiver numa roda de conversa sempre deixar um espaço aberto pra entrar mais uma pessoa
@@ -11,5 +11,8 @@ Lista de coisas pra falar:
 * Agradecer ao time de organização
 * Apresentar o CDC e explicar o CDC
 * Agradecer aos patrocinadores
+* Falar das sprints, e reforçar inscrições pra sprints
+
+------- 
   
-tempo de apyb
+tempo de APyB
