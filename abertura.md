@@ -10,7 +10,7 @@ Lista de coisas pra falar:
   - Regra de conhecer uma pessoa nova por dia de evento pra cada ano de evento que você já participou
 * Falar da força da comunidade e o quanto é necessário apoio pra fazer um evento
 * Agradecer ao time de organização
-* 
+* salas
 * Agradecer aos patrocinadores
 * Falar das sprints, e reforçar inscrições pra sprints
 
